@@ -1,0 +1,7 @@
+apertium-hbs (0.5.0~r57197-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No tarball release, so taking directly from svn
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 09 Mar 2015 16:54:41 +0530
