@@ -4,7 +4,8 @@ Priority: optional
 Maintainer: Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>
 Uploaders: Tino Didriksen <mail@tinodidriksen.com>,
            Kartik Mistry <kartik@debian.org>
-Build-Depends: autotools-dev,
+Build-Depends: apertium (>= 3.3),
+               autotools-dev,
                cg3,
                debhelper (>= 8.0),
                dh-autoreconf,
@@ -12,7 +13,9 @@ Build-Depends: autotools-dev,
                hfst,
                libapertium3-3.3-dev,
                libhfst39-dev,
+               liblttoolbox3-3.3-dev (>= 3.3),
                locales,
+               lttoolbox (>= 3.3),
                pkg-config (>= 0.21)
 Standards-Version: 3.9.6
 Homepage: http://apertium.org/
