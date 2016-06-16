@@ -1,3 +1,11 @@
+apertium-hbs (0.5.0~r57197-2+wmf1) jessie; urgency=low
+
+  * Rebuild for Jessie.
+  * Fixed Build-Deps and Depends.
+  * Simple debian/rules.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 16 Jun 2016 14:33:42 +0530
+
 apertium-hbs (0.5.0~r57197-2) trusty; urgency=low
 
   * debian/control:
