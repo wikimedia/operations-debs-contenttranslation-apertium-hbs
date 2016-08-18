@@ -1,3 +1,11 @@
+apertium-hbs (0.5.0~r68212-1+wmf1) jessie-wikimedia; urgency=low
+
+  * New upstream snapshot.
+  * Clean control and rules files.
+  * Rebuild for Jessie.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 18 Aug 2016 18:37:43 +0530
+
 apertium-hbs (0.5.0~r57197-2) trusty; urgency=low
 
   * debian/control:
