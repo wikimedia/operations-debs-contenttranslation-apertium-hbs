@@ -1,3 +1,9 @@
+apertium-hbs (0.5.0~r68212-1+wmf2) jessie-wikimedia; urgency=low
+
+  * Update on cg3 (>= 1.0.0~r12254)
+
+ -- Kartik Mistry <kartik@debian.org>  Mon, 11 Dec 2017 12:42:32 +0530
+
 apertium-hbs (0.5.0~r68212-1+wmf1) jessie-wikimedia; urgency=low
 
   * New upstream snapshot.
